@@ -1,5 +1,3 @@
-# 🌍 Daniel Tinois
-
 > *"A simplicidade é o último grau da sofisticação."* — Leonardo da Vinci
 
 ## 👋 Sobre mim
