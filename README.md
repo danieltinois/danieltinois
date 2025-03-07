@@ -23,4 +23,4 @@
 ---
 
 📫 **Vamos conversar?**  
-Me encontre no [LinkedIn](#) ou veja meus projetos no [GitHub](#).  
+Me encontre no [LinkedIn](https://www.linkedin.com/in/danieltinois/) ou veja meus projetos no [GitHub](https://github.com/danieltinois?tab=repositories).  
