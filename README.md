@@ -1,26 +1,26 @@
-*"A simplicidade é o último grau da sofisticação."*  
+*"Simplicity is the ultimate sophistication."*  
 — Leonardo da Vinci  
 
-## Full Stack Developer | JavaScript, TypeScript, React & Node.js
+## Full Stack Developer | JavaScript, TypeScript, React & Node.js  
 
----
+---  
 
-- 💻 Desenvolvedor Full Stack apaixonado por tecnologia e código limpo.  
-- 🚀 Especialista em **JavaScript, TypeScript, React, Next.js e Node.js**.  
-- 🎨 Acredito que **design minimalista e usabilidade** fazem toda a diferença.  
-- 🔍 Focado em **boas práticas, performance e escalabilidade**.  
-- 🛠️ Sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.  
+- 💻 Passionate Full Stack Developer who loves technology and clean code.  
+- 🚀 Expert in **JavaScript, TypeScript, React, Next.js, and Node.js**.  
+- 🎨 Believes that **minimalist design and usability** make all the difference.  
+- 🔍 Focused on **best practices, performance, and scalability**.  
+- 🛠️ Always looking to improve my skills and explore new technologies.  
 
----
+---  
 
-## Sobre mim  
+## About Me  
 
-- 🎮 Apaixonado por games e desenvolvimento de jogos.  
-- 🎵 Música é essencial no meu dia a dia, principalmente **plug e lo-fi**.  
-- 🌎 Acredito no poder do código para transformar ideias em realidade.  
-- ✨ Curioso por novas linguagens e frameworks, sempre disposto a aprender mais.  
+- 🎮 Passionate about gaming and game development.  
+- 🎵 Music is essential in my daily life, especially **plug and lo-fi**.  
+- 🌎 I believe in the power of code to turn ideas into reality.  
+- ✨ Curious about new languages and frameworks, always eager to learn more.  
 
----
+---  
 
-📫 **Vamos conversar?**  
-Me encontre no [LinkedIn](https://www.linkedin.com/in/danieltinois/) ou veja meus projetos no [GitHub](https://github.com/danieltinois?tab=repositories).  
+📫 **Let’s connect!**  
+Find me on [LinkedIn](https://www.linkedin.com/in/danieltinois/) or check out my projects on [GitHub](https://github.com/danieltinois?tab=repositories).  
