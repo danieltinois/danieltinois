@@ -6,7 +6,7 @@
 ---  
 
 - 💻 Passionate Full Stack Developer who loves technology and clean code.  
-- 🚀 Expert in **JavaScript, TypeScript, React, Next.js, and Node.js**.  
+- 🚀 Expert in **JavaScript, TypeScript, Dart, Flutter, React, React Native, Next.js, and Node.js**.  
 - 🎨 Believes that **minimalist design and usability** make all the difference.  
 - 🔍 Focused on **best practices, performance, and scalability**.  
 - 🛠️ Always looking to improve my skills and explore new technologies.  
