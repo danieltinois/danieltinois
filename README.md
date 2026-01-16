@@ -1,8 +1,8 @@
 *"Simplicity is the ultimate sophistication."*  
 — Leonardo da Vinci  
 
-## Full Stack Developer | Front-end and Mobile Specialist
-## JavaScript, TypeScript, Dart, Flutter, React, React Native, Next.js, Nest.js & Node.js
+## Full Stack Developer | Front-end and Mobile Specialist 
+**JavaScript, TypeScript, Dart, Flutter, React, React Native, Next.js, Nest.js & Node.js**
 
 ---  
 
