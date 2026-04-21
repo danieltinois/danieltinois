@@ -15,7 +15,7 @@ JavaScript • TypeScript • Dart • Flutter • React • React Native • Ne
 
 ---
 
-## About
+## about
 
 - Interested in product, systems and design  
 - Exploring frontend architecture and scalable patterns  
@@ -23,9 +23,9 @@ JavaScript • TypeScript • Dart • Flutter • React • React Native • Ne
 
 ---
 
-## Links
+## links
 
-→ https://tinois.dev
+[tinois.dev](https://tinois.dev)
 
 ---
 
