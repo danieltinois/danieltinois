@@ -1,27 +1,32 @@
-*"Simplicity is the ultimate sophistication."*  
-— Leonardo da Vinci  
+"Simplicity is the ultimate sophistication."
+— Leonardo da Vinci
 
-## Full Stack Developer | Front-end and Mobile Specialist 
-**JavaScript, TypeScript, Dart, Flutter, React, React Native, Next.js, Nest.js & Node.js**
+## dev. | software engineering
 
----  
+Building scalable and well-structured applications.
 
-- 💻 Passionate Full Stack Developer who loves technology and clean code.  
-- 🚀 Expert in **JavaScript, TypeScript, Dart, Flutter, React, React Native, Next.js, Nest.js, and Node.js**.  
-- 🎨 Believes that **minimalist design and usability** make all the difference.  
-- 🔍 Focused on **best practices, performance, and scalability**.  
-- 🛠️ Always looking to improve my skills and explore new technologies.  
+JavaScript • TypeScript • Dart • Flutter • React • React Native • Next.js • Node.js
 
----  
+---
 
-## About Me  
+- Focused on clean architecture and frontend engineering  
+- Strong background in front-end and mobile development  
+- Building with performance, simplicity and maintainability in mind  
 
-- 🎮 Passionate about gaming and game development.  
-- 🎵 Music is essential in my daily life, especially **plug and lo-fi**.  
-- 🌎 I believe in the power of code to turn ideas into reality.  
-- ✨ Curious about new languages and frameworks, always eager to learn more.  
+---
 
----  
+## About
 
-📫 **Let’s connect!**  
-Find me on [LinkedIn](https://www.linkedin.com/in/danieltinois/) or check out my projects on [GitHub](https://github.com/danieltinois?tab=repositories).  
+- Interested in product, systems and design  
+- Exploring frontend architecture and scalable patterns  
+- Constantly refining how I build software  
+
+---
+
+## Links
+
+→ https://tinois.dev
+
+---
+
+📫 LinkedIn: https://www.linkedin.com/in/danieltinois/
