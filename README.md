@@ -25,9 +25,8 @@ JavaScript • TypeScript • Dart • Flutter • React • React Native • Ne
 
 ## links
 
-HubCard
 [tinois.dev](https://tinois.dev)
-Blog
+
 [danielporai.com](https://danielporai.com)
 
 ---
