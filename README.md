@@ -27,7 +27,7 @@ JavaScript • TypeScript • Dart • Flutter • React • React Native • Ne
 
 [tinois.dev](https://tinois.dev)
 
-[danielporai.com](https://danielporai.com)
+[danieltinois.dev](https://danieltinois.dev)
 
 ---
 
