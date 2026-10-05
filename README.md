@@ -5,7 +5,7 @@
 
 Building scalable and well-structured applications.
 
-JavaScript • TypeScript • Dart • Flutter • React • React Native • Next.js • Node.js
+JavaScript • TypeScript • Java • Dart • Flutter • React • React Native • Next.js • Node.js • Spring Boot
 
 ---
 
