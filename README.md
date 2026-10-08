@@ -166,7 +166,7 @@ Dados viram decisão.
 
 <img src="https://streak-stats.demolab.com?user=danieltinois&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danieltinois&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieltinois&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -188,9 +188,9 @@ Dados viram decisão.
 ### 🐍 contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danieltinois/danieltinois/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danieltinois/danieltinois/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/danieltinois/danieltinois/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danieltinois/danieltinois/raw/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/danieltinois/danieltinois/raw/output/github-snake.svg?v=2" />
+  <img alt="contribution snake" src="https://github.com/danieltinois/danieltinois/raw/output/github-snake.svg?v=2" />
 </picture>
 
 <br/><br/>
