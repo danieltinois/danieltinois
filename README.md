@@ -19,7 +19,6 @@
 <br/>
 
 > *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
-> <br/><sub>…dito isso, olha esse README cheio de frufru 👇</sub>
 
 <br/>
 
