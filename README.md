@@ -68,15 +68,15 @@ const daniel = {
 
 ## `~/projects` 🛠️
 
-> Side projects que nasceram de alguma dor minha de dev. Alguns funcionam, outros ensinam. Todos viram commit.
+> Side projects born from my own dev pain. Some work, some teach. All of them become commits.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🦆 [pato-commit](https://github.com/danieltinois/pato-commit)
-**Self-hosted developer inbox** para PRs, issues e workflows quebrando.
-Chega de 47 abas do GitHub abertas.
+**Self-hosted developer inbox** for PRs, issues and failing workflows.
+No more 47 GitHub tabs open.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -86,8 +86,8 @@ Chega de 47 abas do GitHub abertas.
 <td width="50%" valign="top">
 
 ### 🧹 [devclean](https://github.com/danieltinois/dev-macos-clean)
-**Faxina no macOS de dev**: mostra o que Xcode, Gradle e cia. deixaram pra trás e o que é seguro apagar.
-`node_modules` não vai saber o que atingiu.
+**Spring cleaning for a dev's macOS**: shows what Xcode, Gradle & co. left behind and what is safe to delete.
+`node_modules` never saw it coming.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
@@ -99,8 +99,8 @@ Chega de 47 abas do GitHub abertas.
 <td width="50%" valign="top">
 
 ### ✅ [git-validator](https://github.com/danieltinois/git-validator)
-**CLI que valida commits e branches** (Conventional Commits + Git Flow) via pre-push hook.
-`fix stuff` não passa mais.
+**CLI that validates commits and branches** (Conventional Commits + Git Flow) via a pre-push hook.
+`fix stuff` shall not pass.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![CLI](https://img.shields.io/badge/type-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
@@ -109,8 +109,8 @@ Chega de 47 abas do GitHub abertas.
 <td width="50%" valign="top">
 
 ### 📄 [resume-tailor](https://github.com/danieltinois/job-resume-generator)
-**Um perfil, várias vagas, um PDF sob medida pra cada.**
-Ctrl+C Ctrl+V aposentado.
+**One profile, many job posts, one tailored PDF for each.**
+Ctrl+C Ctrl+V, retired.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white)
@@ -121,8 +121,8 @@ Ctrl+C Ctrl+V aposentado.
 <td width="50%" valign="top">
 
 ### ✔️ [get-it-done](https://github.com/danieltinois/get-it-done)
-**Gerenciador de tarefas** com pastas compartilhadas em grupo.
-Ironicamente, ainda em andamento.
+**Task manager** with folders you can share with a group.
+Ironically, still in progress.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
@@ -133,7 +133,7 @@ Ironicamente, ainda em andamento.
 
 ### 🔗 [tinois.dev](https://github.com/danieltinois/tinois.dev)
 **A developer-focused alternative to Linktree.**
-Porque dev merece link-in-bio com cara de dev.
+Because devs deserve a link-in-bio that looks like a dev made it.
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
@@ -142,17 +142,17 @@ Porque dev merece link-in-bio com cara de dev.
 </table>
 
 <details>
-<summary><b>🧪 lab — POCs, arquitetura & config</b></summary>
+<summary><b>🧪 lab — POCs, architecture & config</b></summary>
 <br/>
 
-| Projeto | O que explora |
+| Project | What it explores |
 |---|---|
-| [anybank-clean-architecture](https://github.com/danieltinois/anybank-clean-architecture) | Clean Architecture aplicada a um app bancário |
-| [poc-angular-architecture-feature-first](https://github.com/danieltinois/poc-angular-architecture-feature-first) | Arquitetura feature-first em Angular |
+| [anybank-clean-architecture](https://github.com/danieltinois/anybank-clean-architecture) | Clean Architecture applied to a banking app |
+| [poc-angular-architecture-feature-first](https://github.com/danieltinois/poc-angular-architecture-feature-first) | Feature-first architecture in Angular |
 | [poc-serven-driven-ui](https://github.com/danieltinois/poc-serven-driven-ui) | Server-Driven UI |
-| [node-oauth-github-and-google-example](https://github.com/danieltinois/node-oauth-github-and-google-example) | OAuth com GitHub & Google em Node |
-| [dotfiles](https://github.com/danieltinois/dotfiles) | Meu setup de macOS e config de agentes de IA |
-| [daniel-astronvim](https://github.com/danieltinois/daniel-astronvim) | Meu setup de Neovim (sim, eu sou desse tipo) |
+| [node-oauth-github-and-google-example](https://github.com/danieltinois/node-oauth-github-and-google-example) | OAuth with GitHub & Google in Node |
+| [dotfiles](https://github.com/danieltinois/dotfiles) | My macOS setup and AI agent config |
+| [daniel-astronvim](https://github.com/danieltinois/daniel-astronvim) | My Neovim setup (yes, I'm one of those) |
 
 </details>
 
@@ -175,13 +175,13 @@ Porque dev merece link-in-bio com cara de dev.
 
 ## `~/todo` 🗺️
 
-- [x] Virar dev
-- [x] Fazer deploy na sexta (e sobreviver)
-- [x] Ter mais side projects do que tempo livre
-- [x] Configurar o Neovim
-- [ ] Parar de configurar o Neovim
-- [ ] Zerar a inbox do pato-commit
-- [ ] Sair do vim sem pesquisar no Google *(em progresso desde 2022)*
+- [x] Become a dev
+- [x] Deploy on a Friday (and survive)
+- [x] Have more side projects than free time
+- [x] Configure Neovim
+- [ ] Stop configuring Neovim
+- [ ] Reach inbox zero on pato-commit
+- [ ] Exit vim without googling it *(in progress since 2022)*
 
 <br/>
 
